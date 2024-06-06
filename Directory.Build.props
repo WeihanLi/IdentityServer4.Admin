@@ -1,11 +1,11 @@
 <Project>
 
   <PropertyGroup>
-    <Version>2.1.0</Version>
-    <Authors>Jan Škoruba</Authors>
+    <Version>3.0.0</Version>
+    <Authors>Jan Škoruba;Weihan Li;IdentityServer4Admin Contributors</Authors>
     <LangVersion>latest</LangVersion>
     <PackageTags>IdentityServer4 Admin OpenIDConnect OAuth2 Identity</PackageTags>
-    <PackageProjectUrl>https://github.com/skoruba/IdentityServer4.Admin</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/WeihanLi/IdentityServer4.Admin</PackageProjectUrl>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
