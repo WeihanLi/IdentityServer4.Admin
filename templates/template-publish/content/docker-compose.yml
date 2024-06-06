@@ -4,8 +4,8 @@ services:
     image: jwilder/nginx-proxy
     container_name: nginx
     ports:
-      - '80:80'
-      - '443:443'
+      - '80:8080'
+      - '443:8443'
     volumes:
       - '/var/run/docker.sock:/tmp/docker.sock:ro'
       - './shared/nginx/vhost.d:/etc/nginx/vhost.d'
