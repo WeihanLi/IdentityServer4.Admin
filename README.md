@@ -1,5 +1,7 @@
 ![Logo](docs/Images/Skoruba.IdentityServer4.Admin-Logo-ReadMe.png)
 
+A forked version to keep up to date with dotnet release
+
 # Skoruba.IdentityServer4.Admin
 
 > The administration for the IdentityServer4 and Asp.Net Core Identity
